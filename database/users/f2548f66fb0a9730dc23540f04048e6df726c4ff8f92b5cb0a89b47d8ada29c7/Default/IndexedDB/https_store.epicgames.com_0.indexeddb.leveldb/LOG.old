@@ -1,1 +1,3 @@
-2023/06/02-07:23:03.926 7ed Reusing MANIFEST /home/runner/work/-E-/-E-/epic/src/database/users/f2548f66fb0a9730dc23540f04048e6df726c4ff8f92b5cb0a89b47d8ada29c7/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/03-07:24:21.287 7a9 Reusing MANIFEST /home/runner/work/-E-/-E-/epic/src/database/users/f2548f66fb0a9730dc23540f04048e6df726c4ff8f92b5cb0a89b47d8ada29c7/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/03-07:24:21.287 7a9 Recovering log #3
+2023/06/03-07:24:21.287 7a9 Reusing old log /home/runner/work/-E-/-E-/epic/src/database/users/f2548f66fb0a9730dc23540f04048e6df726c4ff8f92b5cb0a89b47d8ada29c7/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 
