@@ -1,4 +1,13 @@
-2023/07/15-07:24:33.045 7df Reusing MANIFEST /home/runner/work/-E-/-E-/epic/src/database/users/f2548f66fb0a9730dc23540f04048e6df726c4ff8f92b5cb0a89b47d8ada29c7/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/15-07:37:23.181 7df Level-0 table #21: started
-2023/07/15-07:37:23.183 7df Level-0 table #21: 7043 bytes OK
-2023/07/15-07:37:23.185 7df Delete type=0 #19
+2023/07/21-07:22:55.203 7e1 Reusing MANIFEST /home/runner/work/-E-/-E-/epic/src/database/users/f2548f66fb0a9730dc23540f04048e6df726c4ff8f92b5cb0a89b47d8ada29c7/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/21-07:28:26.926 7e1 Level-0 table #25: started
+2023/07/21-07:28:26.928 7e1 Level-0 table #25: 7031 bytes OK
+2023/07/21-07:28:26.929 7e1 Delete type=0 #23
+2023/07/21-07:28:26.930 7e1 Compacting 4@0 + 1@1 files
+2023/07/21-07:28:26.932 7e1 Generated table #26@0: 525 keys, 4073 bytes
+2023/07/21-07:28:26.932 7e1 Compacted 4@0 + 1@1 files => 4073 bytes
+2023/07/21-07:28:26.933 7e1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/21-07:28:26.933 7e1 Delete type=2 #9
+2023/07/21-07:28:26.934 7e1 Delete type=2 #17
+2023/07/21-07:28:26.934 7e1 Delete type=2 #25
+2023/07/21-07:28:26.934 7e1 Delete type=2 #21
+2023/07/21-07:28:26.934 7e1 Delete type=2 #13
