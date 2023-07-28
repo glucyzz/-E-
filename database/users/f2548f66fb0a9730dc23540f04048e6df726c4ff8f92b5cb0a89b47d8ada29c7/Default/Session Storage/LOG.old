@@ -1,1 +1,9 @@
-2023/07/22-07:21:48.779 81e Reusing MANIFEST /home/runner/work/-E-/-E-/epic/src/database/users/f2548f66fb0a9730dc23540f04048e6df726c4ff8f92b5cb0a89b47d8ada29c7/Default/Session Storage/MANIFEST-000001
+2023/07/28-07:20:50.434 7f9 Reusing MANIFEST /home/runner/work/-E-/-E-/epic/src/database/users/f2548f66fb0a9730dc23540f04048e6df726c4ff8f92b5cb0a89b47d8ada29c7/Default/Session Storage/MANIFEST-000001
+2023/07/28-07:34:46.241 7fb Level-0 table #21: started
+2023/07/28-07:34:46.243 7fb Level-0 table #21: 9862 bytes OK
+2023/07/28-07:34:46.244 7fb Delete type=0 #19
+2023/07/28-07:43:53.927 7f9 Level-0 table #23: started
+2023/07/28-07:43:53.932 7f9 Level-0 table #23: 7191 bytes OK
+2023/07/28-07:43:53.933 7f9 Delete type=0 #20
+2023/07/28-07:43:53.934 7f9 Compacting 4@0 + 1@1 files
+2023/07/28-07:43:53.935 7f9 compacted to: files[ 4 1 1 0 0 0 0 ]

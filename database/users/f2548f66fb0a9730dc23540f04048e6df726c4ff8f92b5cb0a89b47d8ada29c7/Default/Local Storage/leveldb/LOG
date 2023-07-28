@@ -1,11 +1,8 @@
-2023/07/28-07:20:50.061 7f9 Reusing MANIFEST /home/runner/work/-E-/-E-/epic/src/database/users/f2548f66fb0a9730dc23540f04048e6df726c4ff8f92b5cb0a89b47d8ada29c7/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/28-07:20:50.062 7f9 Delete type=2 #9
-2023/07/28-07:20:50.062 7f9 Delete type=2 #17
-2023/07/28-07:20:50.062 7f9 Delete type=2 #21
-2023/07/28-07:20:50.062 7f9 Delete type=2 #13
-2023/07/28-07:31:19.241 7f9 Level-0 table #30: started
-2023/07/28-07:31:19.256 7f9 Level-0 table #30: 6987 bytes OK
-2023/07/28-07:31:19.257 7f9 Delete type=0 #28
-2023/07/28-07:35:15.073 7f9 Level-0 table #32: started
-2023/07/28-07:35:15.075 7f9 Level-0 table #32: 6972 bytes OK
-2023/07/28-07:35:15.076 7f9 Delete type=0 #29
+2023/07/29-07:21:41.755 805 Reusing MANIFEST /home/runner/work/-E-/-E-/epic/src/database/users/f2548f66fb0a9730dc23540f04048e6df726c4ff8f92b5cb0a89b47d8ada29c7/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/29-07:21:41.756 805 Delete type=2 #9
+2023/07/29-07:21:41.756 805 Delete type=2 #17
+2023/07/29-07:21:41.756 805 Delete type=2 #21
+2023/07/29-07:21:41.756 805 Delete type=2 #13
+2023/07/29-07:32:23.525 805 Level-0 table #36: started
+2023/07/29-07:32:23.528 805 Level-0 table #36: 6974 bytes OK
+2023/07/29-07:32:23.530 805 Delete type=0 #34
